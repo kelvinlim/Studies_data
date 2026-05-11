@@ -1,0 +1,14 @@
+HCS3_id:
+  label: HCS3 id
+  desc: |
+    Initial letters are the hospital location.
+    The following digits are the assigned subject number.
+    The letter signifies the treatment group where a is early intervention
+    and b is standard treatment.
+
+SCID_Dx_10yr:
+  label: SCID Dx 10yr
+  desc: |
+    The SCID diagnosis for the past 10 years. This is a categorical variable
+    with the following possible values:
+  
